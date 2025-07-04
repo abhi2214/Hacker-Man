@@ -26,5 +26,5 @@ A fun and animated terminal-style web app built with **React.js**, simulating a 
 
 ## 📸 Demo
 
-[🔗 Live Demo](https://abhi2214.github.io/hackerman-terminal/)  
+[🔗 Live Demo](https://abhi2214.github.io/Hacker-Man/)  
 📷![](hacker.png)
